@@ -31,7 +31,10 @@ cd inputcount-frontend
 ```
 
 ### 🌐 Passo 2: Executar o Frontend
-Abra o arquivo ```index.html``` diretamente no seu navegador para visualizar a interface.
+```bash
+yarn run init
+```
+Por fim, abra o arquivo ```index.html``` diretamente no seu navegador para visualizar a interface.
 
 ## 🔗 Repositórios Relacionados
 - 🔄 Backend do InputCount: https://github.com/gabriel-vasconcelos/inputcount-backend
