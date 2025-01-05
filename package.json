@@ -1,0 +1,15 @@
+{
+  "name": "inputcount-frontend",
+  "version": "1.0.0",
+  "description": "O **InputCount** é um sistema web simples que permite aos usuários enviar valores a um servidor e visualizar o número de vezes que cada valor foi enviado. Este repositório contém o código referente à interface de usuário (frontend) do projeto, desenvolvido utilizando **HTML5**, **TailwindCSS** e **JavaScript Puro**.",
+  "main": "index.js",
+  "scripts": {
+    "init": "npx tailwindcss -i ./assets/css/input.css -o ./assets/css/output.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}
