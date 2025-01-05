@@ -2,6 +2,8 @@
 
 O **InputCount** é um sistema web simples que permite aos usuários enviar valores a um servidor e visualizar o número de vezes que cada valor foi enviado. Este repositório contém o código referente à interface de usuário (frontend) do projeto, desenvolvido utilizando **HTML5**, **TailwindCSS** e **JavaScript Puro**.
 
+![image](https://github.com/user-attachments/assets/60a2dc13-dc17-48e2-921f-8815cd8a3cdb)
+
 ## 🧩 Visão Geral do Projeto
 O projeto InputCount é dividido em duas partes principais:
 - **Frontend:** Interface web que permite ao usuário inserir um valor em uma caixa de texto e enviá-lo para o backend. Após o envio, o número de vezes que o valor foi recebido pelo servidor é exibido na interface.
