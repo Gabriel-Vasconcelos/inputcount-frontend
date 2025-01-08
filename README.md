@@ -10,7 +10,11 @@ O projeto InputCount é dividido em duas partes principais:
 - **Backend:** Servidor desenvolvido em Node.js que recebe os valores enviados pelo frontend, armazena a contagem de cada valor e retorna essa informação ao frontend.
 
 > ⚠️ Nota: Este repositório é apenas para o código do frontend. O backend está disponível em um repositório separado:
-> 🔗 InputCount Backend
+> [🔗 InputCount Backend](https://github.com/gabriel-vasconcelos/inputcount-backend)
+
+## Vídeo
+https://github.com/user-attachments/assets/206eb209-3076-416b-97d7-09f4b467b25d
+
 
 ## 📚 Tecnologias Utilizadas
 - HTML
