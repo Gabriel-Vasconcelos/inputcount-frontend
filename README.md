@@ -32,12 +32,11 @@ Execute o seguinte comando no terminal para clonar o repositório:
 ```bash
 git clone https://github.com/gabriel-vasconcelos/inputcount-frontend.git
 cd inputcount-frontend
-yarn install
 ```
 
 ### 🌐 Passo 2: Executar o Frontend
 ```bash
-yarn run init
+yarn && yarn run init
 ```
 Por fim, abra o arquivo ```index.html``` diretamente no seu navegador para visualizar a interface.
 
