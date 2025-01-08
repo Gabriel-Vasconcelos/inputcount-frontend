@@ -12,7 +12,7 @@ O projeto InputCount é dividido em duas partes principais:
 > ⚠️ Nota: Este repositório é apenas para o código do frontend. O backend está disponível em um repositório separado:
 > [🔗 InputCount Backend](https://github.com/gabriel-vasconcelos/inputcount-backend)
 
-## Vídeo
+## 🎥 Vídeo do Projeto
 https://github.com/user-attachments/assets/206eb209-3076-416b-97d7-09f4b467b25d
 
 
